@@ -10,7 +10,10 @@ Padrões de Criações:
 • Builder     
 • Factory Method     
 • Prototype     
-• SingletonPadrões Estruturais          
+• Singleton
+
+Padrões Estruturais          
+
 • Adapter     
 • Bridge     
 • Composite     
