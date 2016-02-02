@@ -1,0 +1,6 @@
+C:\Repositorios\Padrões de Projetos\padroes-criacoes\abstract-factory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Repositorios\Padrões de Projetos\padroes-criacoes\abstract-factory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Repositorios\Padrões de Projetos\padroes-criacoes\abstract-factory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Repositorios\Padrões de Projetos\padroes-criacoes\abstract-factory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Repositorios\Padrões de Projetos\padroes-criacoes\abstract-factory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Repositorios\Padrões de Projetos\padroes-criacoes\abstract-factory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
